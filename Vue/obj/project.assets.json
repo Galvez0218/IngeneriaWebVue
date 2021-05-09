@@ -664,11 +664,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# ASP NET\\IngenieriaWeb\\IngeneriaWebVue\\Vue\\Vue.csproj",
+      "projectUniqueName": "D:\\C# ASP NET\\Vue\\Vue\\Vue.csproj",
       "projectName": "Vue",
-      "projectPath": "D:\\C# ASP NET\\IngenieriaWeb\\IngeneriaWebVue\\Vue\\Vue.csproj",
+      "projectPath": "D:\\C# ASP NET\\Vue\\Vue\\Vue.csproj",
       "packagesPath": "C:\\Users\\alvin\\.nuget\\packages\\",
-      "outputPath": "D:\\C# ASP NET\\IngenieriaWeb\\IngeneriaWebVue\\Vue\\obj\\",
+      "outputPath": "D:\\C# ASP NET\\Vue\\Vue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

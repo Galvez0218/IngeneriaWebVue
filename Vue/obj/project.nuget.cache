@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mk306JUVU3RwYUG7+r/wNn26aDQnCKcbDIVLWhDIizGeNqiSgbJ8Duroq52PHr9II+9C3uU+28yT1f+DLiag4A==",
+  "dgSpecHash": "khJwt9Qk+3c9BfCrbE2UBkt5eJh0+xHdQVUA+OG3BcdYyXQMo+mtgHcQ/lewSbyJ3G6TVco1QDP/4FrYfuy7Ng==",
   "success": true,
-  "projectFilePath": "D:\\C# ASP NET\\IngenieriaWeb\\IngeneriaWebVue\\Vue\\Vue.csproj",
+  "projectFilePath": "D:\\C# ASP NET\\Vue\\Vue\\Vue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alvin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.12\\microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "C:\\Users\\alvin\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",
