@@ -23,7 +23,12 @@ namespace Vue.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult login()
+        {
+            return View();
+        }
+
+        public IActionResult Usuario()
         {
             return View();
         }
